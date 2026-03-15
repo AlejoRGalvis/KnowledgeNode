@@ -246,4 +246,4 @@ For technical questions or issues, contact:
 
 ---
 
-*Knowledge Node v1.0.0 — Scotiabank Internal Tool*
+*Knowledge Node v1.0.0 
